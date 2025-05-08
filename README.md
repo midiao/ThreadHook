@@ -213,8 +213,13 @@ class HookApplication: Application() {
 ##### 开启hook
 
 开启hook后，所有线程创建的都会走hook逻辑，表现为打印如下日志：
-
 <img src="img/demo.png" align="left" />
+
+
+
+
+
+
 
 #### 参考文档
 
